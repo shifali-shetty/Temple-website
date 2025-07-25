@@ -271,7 +271,7 @@ img {
     margin-inline: auto;
   }
   .nav{
-    height: calc(var(--header-height)+2rem);
+    padding-block: 1rem;
   }
   .nav__toggle,
   .nav__close{
